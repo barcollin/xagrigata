@@ -1,6 +1,6 @@
 #Xagrigata
 
-Xagrigata is designed to streamline and aggregate event subscriptions from multiple blockchain networks (e.g., Ethereum, Solana, Binance Smart Chain, Cosmos). It provides developers with a unified interface for listening to and processing real-time events across different blockchain ecosystems.
+Xagrigata is designed to streamline and aggregate event subscriptions from multiple blockchain networks (e.g., Ethereum, Solana, Binance Smart Chain, Cosmos). It provides developers with a unified interface for listening to and processing real-time events across different blockchain ecosystems. You can add support for new blockchain networks in the future by simply implementing the BlockchainService interface for that specific chain (e.g., Cosmos, Polkadot, etc.).
 
 ## Features:
 
